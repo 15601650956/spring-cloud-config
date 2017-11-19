@@ -1,1 +1,6 @@
-profile: prod
+---
+profiles: peer1
+---
+profiles: peer2
+---
+profiles: peer3

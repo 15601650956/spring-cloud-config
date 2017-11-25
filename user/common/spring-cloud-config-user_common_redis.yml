@@ -1,0 +1,3 @@
+redis:
+  user:
+    username: user-common-redis

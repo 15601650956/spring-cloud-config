@@ -1,0 +1,3 @@
+redis:
+  user:
+    username: loan-common-redis
